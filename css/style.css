@@ -1,0 +1,8 @@
+@media(max-width:768px){
+    #posts .table,
+    #users .table,
+    #categories .table{
+        display: block;
+        overflow-x: auto;
+    }
+}
